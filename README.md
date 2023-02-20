@@ -62,7 +62,7 @@ Lecture notes available at https://community.deeplearning.ai/t/nlp-course-1-lect
 * [Lab 1 - Natural Language preprocessing](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/c1_w1_lab1_preprocessing.md)
 * [Lab 2 - Visualizing word frequencies](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/c1_w1_lab2_visualization.md)
 * [Lab 3 - Visualizing tweets and Logistic Regression models](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/c1_w1_lab3_tweets_and_lr.md)
-* [Assignment 1](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/assignment_1_logistic_regression.md)
+* [Assignment 1](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/c1_w1_assignment1_logistic_regression.md)
 * Assignment 1 Solution
 
 #### Week 2: Sentiment Analysis with Naïve Bayes
