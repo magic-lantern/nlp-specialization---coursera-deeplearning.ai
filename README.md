@@ -13,8 +13,10 @@ conda activate coursera_nlp
 In order to find dependencies for Python environment, clone some popular Github repos from others who have taken the course.
 
 ```bash
+# this one seems to have the best original files so can perform exercises on my own
 git clone git@github.com:amanjeetsahu/Natural-Language-Processing-Specialization.git
-# alternatives
+# alternatives. all of these are 4 years old...
+# git clone git@github.com:y33-j3T/Coursera-Deep-Learning.git
 # git clone git@github.com:ibrahimjelliti/Deeplearning.ai-Natural-Language-Processing-Specialization.git
 # git clone git@github.com:amanchadha/coursera-natural-language-processing-specialization.git
 # search all notebooks and py files for import statements
@@ -57,6 +59,7 @@ Lecture notes available at https://community.deeplearning.ai/t/nlp-course-1-lect
 
 [Slides](/course_1_nlp_with_classification_and_vector_spaces/slides) from each week are available.
 
+For each week, I have a `fiddled` folder that I store my changes/edits in. Original labs and assignments are in the `week X` folders
 #### Week 1: Sentiment Analysis with Logistic Regression
 
 * [Lab 1 - Natural Language preprocessing](course_1_nlp_with_classification_and_vector_spaces/week_1_sentiment_analysis_with_logistic_regression/c1_w1_lab1_preprocessing.md)
